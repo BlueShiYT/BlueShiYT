@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://avatars.githubusercontent.com/BlueShiYT" width="240" height="240"/>
 </p>
-<h1 align='center'>Hallo Banh👋 :wave:</h1>
+<h1 align='center'>Hallo Banh :wave:</h1>
 <p align='center'>Hi There, I'm BlueShi!</p>
 <p align='center'>
 <a href="https://instagram.com/TheBlueShi"><img height="30" src="https://github.com/ArugaZ/ArugaZ/blob/main/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
