@@ -13,7 +13,7 @@
  </p>
 
 <h3 align="left">Contact with me:</h3>
-<p align="left"><a href="https://youtube.com/c/TheBlueShi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube .svg" alt="yooiamthoriq" height="30" width="40" /></a>
+<p align="left"><a href="https://youtube.com/c/TheBlueShi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="yooiamthoriq" height="30" width="40" /></a>
 <p align="left"><a href="https://Wa.me/6285695601294" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="yooiamthoriq" height="30" width="40" /></a>
 </p>
 
