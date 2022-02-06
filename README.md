@@ -25,7 +25,7 @@
 
 <h3 align="left">My Repo</h3>
 <p align="left">
-  <a href="https://github.com/BlueShiYT/MitsuShiba"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueShiYT&repo=MitsuShiba&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
+  <a href="https://github.com/BlueShiYT/MitsuBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueShiYT&repo=MitsuShiba&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
 </p>
 
 <h3 align="left">Github Stats</h3>
